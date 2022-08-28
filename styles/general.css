@@ -1,0 +1,18 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+*:focus{
+  outline:none;
+}
+body{
+  width:100%;
+  background-color: #fafafa;
+  position:relative;
+  font-family:Arial;
+  padding-bottom:1000px;
+}
+.rounded-border{
+  border-radius: 50%;
+}
